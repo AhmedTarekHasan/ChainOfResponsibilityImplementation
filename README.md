@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816?sk=d34d96977426afead785cc1043b3a066" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/chain-of-responsibility-design-pattern-in-net-c" />
 
 # Chain of Responsibility Design Pattern In .NET C#
 ### Learn the Chain of Responsibility Design Pattern in .NET C# with enhancements.
 
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1500/1*s7IxJ7Xc2UHa-3tvP0smyw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_4d06fcc13ba34d5b990f5b67cf50f8c9~mv2.png/v1/fill/w_828,h_551,al_c,q_90,enc_auto/488a99_4d06fcc13ba34d5b990f5b67cf50f8c9~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/chain-of-responsibility-design-pattern-in-net-c-666bb4dc2816?sk=d34d96977426afead785cc1043b3a066
+[Article]: https://www.developmentsimplyput.com/post/chain-of-responsibility-design-pattern-in-net-c
